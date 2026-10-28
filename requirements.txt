@@ -1,0 +1,9 @@
+praw
+python-dotenv
+vaderSentiment
+textblob
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
